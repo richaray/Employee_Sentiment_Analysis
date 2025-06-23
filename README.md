@@ -24,4 +24,8 @@ Open the notebook in Google Colab, upload the dataset (if needed), and run each 
 Achieved good classification performance on the test data. Sample predictions demonstrate correct identification of sentiment.
 
 ## 📌 Note
-This project is for educational purposes only and uses a sample dataset.
+This project is for educational purposes only and uses a sample dataset.  
+
+## 🪪 License
+This project is licensed under the [MIT License](LICENSE).
+
